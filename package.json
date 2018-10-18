@@ -4,7 +4,7 @@
   "description": " A simple example of a Webpack-generated Preact application",
   "main": "webpack.config.js",
   "dependencies": {
-    "preact": "^8.2.7"
+    "preact": "^8.3.1"
   },
   "devDependencies": {
     "babel-core": "^6.26.0",
