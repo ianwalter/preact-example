@@ -7,11 +7,10 @@
     "preact": "^8.3.1"
   },
   "devDependencies": {
-    "babel-core": "^6.26.0",
+    "@babel/core": "^7.1.2",
+    "@babel/plugin-transform-react-jsx": "^7.0.0",
+    "@babel/preset-env": "^7.1.0",
     "babel-loader": "^8.0.4",
-    "babel-plugin-transform-react-jsx": "^6.24.1",
-    "babel-preset-env": "^1.6.1",
-    "babel-preset-stage-2": "^6.24.1",
     "clean-webpack-plugin": "^0.1.18",
     "html-webpack-plugin": "^2.30.1",
     "webpack": "^3.10.0",
@@ -24,25 +23,21 @@
   "keywords": [],
   "author": "Ian Walter <public@iankwalter.com> (https://iankwalter.com)",
   "license": "ISC",
+  "browserslist": [
+    "> 0.25%"
+  ],
   "babel": {
     "presets": [
       [
-        "env",
+        "@babel/preset-env",
         {
-          "targets": {
-            "browsers": [
-              "> 1%",
-              "last 2 versions"
-            ]
-          },
           "modules": false
         }
-      ],
-      "stage-2"
+      ]
     ],
     "plugins": [
       [
-        "transform-react-jsx",
+        "@babel/plugin-transform-react-jsx",
         {
           "pragma": "h"
         }
