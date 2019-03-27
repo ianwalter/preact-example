@@ -689,6 +689,16 @@
     lodash "^4.17.11"
     to-fast-properties "^2.0.0"
 
+"@ianwalter/eslint-config-react@^1.0.2":
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/@ianwalter/eslint-config-react/-/eslint-config-react-1.0.2.tgz#f021127970230d83e0b97da2f214f4c7e580eb17"
+  integrity sha512-b7uL44hazUKUchUc6Rgpk9tLXPgyCBOJVOioTuaMrqMqlxAiI679QZ7TLmvv8nmzFphjfgmsmHQJhz39WvDO1A==
+  dependencies:
+    "@ianwalter/eslint-config" "^1.1.1"
+    babel-eslint "^10.0.1"
+    eslint "^5.14.1"
+    eslint-plugin-react "^7.12.4"
+
 "@ianwalter/eslint-config@^1.1.1":
   version "1.1.1"
   resolved "https://registry.yarnpkg.com/@ianwalter/eslint-config/-/eslint-config-1.1.1.tgz#0bc3ca4d701c3349dbb8218371458639d8c28e9b"
