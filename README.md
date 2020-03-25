@@ -5,6 +5,7 @@
 
 - [react-example](https://github.com/ianwalter/react-example)
 - [vue-example](https://github.com/ianwalter/vue-example)
+- [svelte-example](https://github.com/ianwalter/svelte-example)
 
 ## License
 
