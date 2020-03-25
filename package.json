@@ -10,7 +10,7 @@
     "start": "webpack-dev-server"
   },
   "dependencies": {
-    "preact": "^8.5.3"
+    "preact": "^10.3.4"
   },
   "devDependencies": {
     "@babel/core": "^7.9.0",
