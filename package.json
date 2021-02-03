@@ -13,7 +13,7 @@
     "preact": "^10.3.4"
   },
   "devDependencies": {
-    "@babel/core": "^7.12.10",
+    "@babel/core": "^7.12.13",
     "@babel/plugin-transform-react-jsx": "^7.12.12",
     "@babel/preset-env": "^7.12.11",
     "@ianwalter/eslint-config-react": "^4.0.0",
