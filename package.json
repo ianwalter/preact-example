@@ -15,7 +15,7 @@
   "devDependencies": {
     "@babel/core": "^7.12.13",
     "@babel/plugin-transform-react-jsx": "^7.12.13",
-    "@babel/preset-env": "^7.12.13",
+    "@babel/preset-env": "^7.15.8",
     "@ianwalter/eslint-config-react": "^4.1.0",
     "@ianwalter/renovate-config": "^1.4.3",
     "babel-loader": "^8.2.2",
